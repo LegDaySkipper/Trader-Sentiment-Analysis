@@ -2,8 +2,6 @@
 
 ## Overview
 
-This project was completed as part of the Round-0 assignment for the **Data Science / Analytics Intern** role at **Primetrade.ai**.
-
 The objective of this analysis is to investigate how **Bitcoin market sentiment (Fear & Greed Index)** relates to **trader behaviour and trading performance** on the Hyperliquid exchange. By combining market sentiment data with historical trading records, the analysis identifies behavioural patterns and proposes practical trading recommendations.
 
 ---
